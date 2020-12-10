@@ -8,8 +8,8 @@ YTRobot.ttt为Vrep仿真文件
 catkin_make  
 '''  
 模型展示：  
-'''
-  roslaunch YT display.launch   
+'''  
+  roslaunch YT display.launch  
 '''  
 MoveIt：  
 '''  
