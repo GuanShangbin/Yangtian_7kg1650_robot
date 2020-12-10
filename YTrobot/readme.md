@@ -11,7 +11,7 @@ catkin_make
 '''
   roslaunch YT display.launch  
 '''  
-MoveIt仿真及路径规划：  
+MoveIt：  
 '''  
 roslaunch YT_moveit_config demo.launch  
 '''  
